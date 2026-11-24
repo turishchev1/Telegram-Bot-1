@@ -1,0 +1,21 @@
+# systemd unit for running the bot 24/7 on a Linux server. See README, section "Option A".
+# Copy to /etc/systemd/system/moneymate.service, adjust the paths and user, then:
+#   sudo systemctl daemon-reload && sudo systemctl enable --now moneymate
+[Unit]
+Description=MoneyMate Telegram bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=moneymate
+WorkingDirectory=/opt/moneymate
+ExecStart=/opt/moneymate/.venv/bin/python bot.py
+Restart=always
+RestartSec=5
+# Basic hardening
+NoNewPrivileges=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target

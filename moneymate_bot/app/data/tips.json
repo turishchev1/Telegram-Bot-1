@@ -1,0 +1,282 @@
+[
+ {
+  "id": 1,
+  "tag": "budgeting",
+  "en": "Try the 50/30/20 rule: about 50% of income for needs, 30% for wants and 20% for savings. Adjust the numbers to fit your life.",
+  "ru": "Попробуйте правило 50/30/20: около 50% дохода на нужды, 30% на желания и 20% на сбережения. Подстройте пропорции под свою жизнь.",
+  "uz": "50/30/20 qoidasini sinab ko'ring: daromadning taxminan 50% ehtiyojlarga, 30% xohishlarga, 20% jamg'armaga. Nisbatlarni hayotingizga moslang."
+ },
+ {
+  "id": 2,
+  "tag": "saving",
+  "en": "Pay yourself first: on payday, move money to savings before you spend on anything else.",
+  "ru": "Платите себе первым: в день зарплаты сразу откладывайте деньги, прежде чем тратить на что-то другое.",
+  "uz": "Avval o'zingizga to'lang: oylik kelgan kuni boshqa narsaga sarflashdan oldin jamg'armaga pul ajrating."
+ },
+ {
+  "id": 3,
+  "tag": "saving",
+  "en": "Build an emergency fund that covers 3 to 6 months of essential expenses. Start with a small target, like one month.",
+  "ru": "Создайте резервный фонд на 3–6 месяцев обязательных расходов. Начните с небольшой цели, например с одного месяца.",
+  "uz": "3–6 oylik zaruriy xarajatlarga yetadigan favqulodda jamg'arma yarating. Kichik maqsaddan, masalan bir oylikdan boshlang."
+ },
+ {
+  "id": 4,
+  "tag": "spending",
+  "en": "Wait 24 hours before buying anything non-essential. Many impulse wants fade overnight.",
+  "ru": "Подождите 24 часа перед необязательной покупкой. Многие спонтанные желания проходят за ночь.",
+  "uz": "Zarur bo'lmagan narsani sotib olishdan oldin 24 soat kuting. Ko'p tasodifiy istaklar bir kechada o'tib ketadi."
+ },
+ {
+  "id": 5,
+  "tag": "habits",
+  "en": "Log every expense for 30 days. You can't change what you don't see.",
+  "ru": "Записывайте все расходы 30 дней. Нельзя изменить то, чего не видишь.",
+  "uz": "30 kun davomida barcha xarajatlaringizni yozib boring. Ko'rmagan narsangizni o'zgartira olmaysiz."
+ },
+ {
+  "id": 6,
+  "tag": "spending",
+  "en": "Small daily purchases add up. Multiply a daily coffee by 30 to see what it costs per month.",
+  "ru": "Мелкие ежедневные траты складываются. Умножьте стоимость ежедневного кофе на 30 — увидите сумму за месяц.",
+  "uz": "Kundalik mayda xarajatlar yig'ilib boradi. Har kungi qahva narxini 30 ga ko'paytirib, oylik summani ko'ring."
+ },
+ {
+  "id": 7,
+  "tag": "debt",
+  "en": "List all your debts with their interest rates. Paying extra on the highest-interest debt first saves the most money.",
+  "ru": "Составьте список долгов с процентными ставками. Досрочные платежи по самому дорогому долгу экономят больше всего.",
+  "uz": "Barcha qarzlaringizni foiz stavkalari bilan yozib chiqing. Eng yuqori foizli qarzni oldin ko'proq to'lash eng ko'p tejaydi."
+ },
+ {
+  "id": 8,
+  "tag": "debt",
+  "en": "The snowball method: pay off the smallest debt first for a quick win, while paying the minimum on the rest.",
+  "ru": "Метод снежного кома: сначала закройте самый маленький долг ради быстрой победы, а по остальным вносите минимальные платежи.",
+  "uz": "“Qor to'pi” usuli: avval eng kichik qarzni yoping, qolganlarga esa minimal to'lovni to'lang."
+ },
+ {
+  "id": 9,
+  "tag": "budgeting",
+  "en": "Give every unit of money a job: decide in advance where each part of your income goes.",
+  "ru": "Дайте каждой сумме задачу: заранее решите, куда пойдёт каждая часть дохода.",
+  "uz": "Har bir so'mga vazifa bering: daromadingizning har bir qismi qayerga ketishini oldindan belgilang."
+ },
+ {
+  "id": 10,
+  "tag": "saving",
+  "en": "Automate your saving. A regular transfer on payday works better than relying on willpower.",
+  "ru": "Автоматизируйте накопления. Регулярный перевод в день зарплаты работает лучше силы воли.",
+  "uz": "Jamg'armani avtomatlashtiring. Oylik kuni muntazam o'tkazma irodaga tayanishdan yaxshiroq ishlaydi."
+ },
+ {
+  "id": 11,
+  "tag": "spending",
+  "en": "Before buying, ask: do I need it, do I just want it, or will I use it more than ten times?",
+  "ru": "Перед покупкой спросите себя: мне это нужно, я этого просто хочу или буду пользоваться этим больше десяти раз?",
+  "uz": "Sotib olishdan oldin so'rang: bu menga kerakmi, shunchaki xohlayapmanmi yoki o'n martadan ko'p foydalanamanmi?"
+ },
+ {
+  "id": 12,
+  "tag": "spending",
+  "en": "Compare prices before big purchases and check whether a good second-hand option exists.",
+  "ru": "Сравнивайте цены перед крупными покупками и проверяйте, нет ли хорошего варианта б/у.",
+  "uz": "Katta xaridlardan oldin narxlarni solishtiring va ishlatilgan yaxshi variant bor-yo'qligini tekshiring."
+ },
+ {
+  "id": 13,
+  "tag": "habits",
+  "en": "Review your spending once a week for five minutes. Small corrections beat big resets.",
+  "ru": "Раз в неделю уделяйте пять минут обзору расходов. Небольшие поправки лучше резких перемен.",
+  "uz": "Haftada bir marta besh daqiqa xarajatlarni ko'zdan kechiring. Kichik tuzatishlar keskin o'zgarishlardan yaxshi."
+ },
+ {
+  "id": 14,
+  "tag": "income",
+  "en": "Irregular income? Budget from your lowest typical month and treat anything above it as a bonus to save.",
+  "ru": "Нерегулярный доход? Планируйте бюджет по самому скромному обычному месяцу, а всё сверх этого откладывайте как бонус.",
+  "uz": "Daromadingiz doimiy emasmi? Byudjetni eng past odatiy oyga qarab tuzing, undan ortig'ini bonus sifatida jamg'aring."
+ },
+ {
+  "id": 15,
+  "tag": "saving",
+  "en": "Set a specific savings goal with an amount and a date. “Save 3,000,000 by June” beats “save more”.",
+  "ru": "Поставьте конкретную цель: сумма и срок. «Накопить 3 000 000 к июню» лучше, чем «откладывать больше».",
+  "uz": "Aniq maqsad qo'ying: summa va muddat. “Iyunga 3 000 000 yig'ish” “ko'proq jamg'arish”dan yaxshi."
+ },
+ {
+  "id": 16,
+  "tag": "debt",
+  "en": "Be careful with installment plans for things you don't need. Add up the total you will pay, not just the monthly amount.",
+  "ru": "Осторожнее с рассрочкой на ненужные вещи. Считайте общую сумму выплат, а не только ежемесячный платёж.",
+  "uz": "Keraksiz narsalarga bo'lib to'lashdan ehtiyot bo'ling. Faqat oylik to'lovni emas, umumiy summani hisoblang."
+ },
+ {
+  "id": 17,
+  "tag": "budgeting",
+  "en": "Try to keep fixed costs (rent, bills, loans) around half of your income. If that isn't possible, look for the biggest cost you can cut first.",
+  "ru": "Постоянные расходы (аренда, счета, кредиты) по возможности держите примерно в пределах половины дохода. Если не получается, найдите самую крупную статью, которую можно сократить.",
+  "uz": "Doimiy xarajatlarni (ijara, kommunal, kreditlar) imkon qadar daromadingizning taxminan yarmida ushlang. Bo'lmasa, qisqartirish mumkin bo'lgan eng katta xarajatni toping."
+ },
+ {
+  "id": 18,
+  "tag": "spending",
+  "en": "Try one no-spend day a week: buy only the essentials.",
+  "ru": "Устройте один день в неделю без трат: покупайте только самое необходимое.",
+  "uz": "Haftada bir “xarajatsiz kun” o'tkazing: faqat zaruriy narsalarni sotib oling."
+ },
+ {
+  "id": 19,
+  "tag": "saving",
+  "en": "Keep your emergency fund separate from your everyday money so you don't dip into it by accident.",
+  "ru": "Храните резервный фонд отдельно от денег на повседневные траты, чтобы случайно его не потратить.",
+  "uz": "Favqulodda jamg'armani kundalik pulingizdan alohida saqlang, shunda uni tasodifan sarflab yubormaysiz."
+ },
+ {
+  "id": 20,
+  "tag": "habits",
+  "en": "Celebrate small wins. Three months of tracking is already a strong habit.",
+  "ru": "Радуйтесь маленьким победам. Три месяца учёта — это уже крепкая привычка.",
+  "uz": "Kichik g'alabalarni nishonlang. Uch oy hisob yuritish allaqachon mustahkam odat."
+ },
+ {
+  "id": 21,
+  "tag": "spending",
+  "en": "Subscriptions renew quietly. Review them every few months and cancel what you don't use.",
+  "ru": "Подписки продлеваются незаметно. Раз в несколько месяцев пересматривайте их и отменяйте ненужные.",
+  "uz": "Obunalar sezdirmasdan yangilanadi. Bir necha oyda bir ularni ko'rib chiqing va ishlatmayotganlaringizni bekor qiling."
+ },
+ {
+  "id": 22,
+  "tag": "budgeting",
+  "en": "Plan for irregular expenses (gifts, holidays, repairs) by setting aside a small amount every month.",
+  "ru": "Готовьтесь к нерегулярным расходам (подарки, праздники, ремонт): откладывайте небольшую сумму каждый месяц.",
+  "uz": "Muntazam bo'lmagan xarajatlarga (sovg'alar, bayramlar, ta'mir) har oy ozgina pul ajratib tayyorlaning."
+ },
+ {
+  "id": 23,
+  "tag": "saving",
+  "en": "When your income grows, raise your savings too. Keep your lifestyle the same and save the difference.",
+  "ru": "Когда доход растёт, увеличивайте и долю накоплений. Образ жизни оставьте прежним, а разницу откладывайте.",
+  "uz": "Daromad oshganda jamg'arma ulushini ham oshiring. Turmush tarzini o'zgartirmang, farqini jamg'aring."
+ },
+ {
+  "id": 24,
+  "tag": "debt",
+  "en": "Avoid borrowing to pay for everyday spending. If it keeps happening, the budget needs adjusting.",
+  "ru": "Не берите в долг на повседневные траты. Если это повторяется, нужно пересмотреть бюджет.",
+  "uz": "Kundalik xarajatlar uchun qarz olishdan saqlaning. Bu takrorlansa, byudjetni qayta ko'rib chiqish kerak."
+ },
+ {
+  "id": 25,
+  "tag": "spending",
+  "en": "Take a list to the grocery store and stick to it. Not shopping hungry helps too.",
+  "ru": "Ходите в магазин со списком и придерживайтесь его. Не ходите за продуктами голодными.",
+  "uz": "Do'konga ro'yxat bilan boring va unga amal qiling. Och qoringa xarid qilmaslik ham yordam beradi."
+ },
+ {
+  "id": 26,
+  "tag": "safety",
+  "en": "Never share your card number, PIN or SMS codes with anyone, even if they say they are from your bank.",
+  "ru": "Никому не сообщайте номер карты, ПИН-код и коды из SMS, даже если человек представляется сотрудником банка.",
+  "uz": "Karta raqami, PIN-kod va SMS kodlarni hech kimga aytmang, hatto o'zini bank xodimi deb tanishtirsa ham."
+ },
+ {
+  "id": 27,
+  "tag": "student",
+  "en": "Student? Even a small fixed amount saved from each stipend or allowance builds a habit that lasts.",
+  "ru": "Студент? Даже небольшая фиксированная сумма из каждой стипендии или карманных денег формирует привычку на всю жизнь.",
+  "uz": "Talabamisiz? Har bir stipendiya yoki cho'ntak pulidan kichik belgilangan summani jamg'arish uzoq davom etadigan odat hosil qiladi."
+ },
+ {
+  "id": 28,
+  "tag": "income",
+  "en": "Think about growing income as well as cutting costs: new skills, side work, or asking about a raise.",
+  "ru": "Думайте не только о сокращении расходов, но и о росте дохода: новые навыки, подработка или разговор о повышении.",
+  "uz": "Faqat xarajatni qisqartirish emas, daromadni oshirishni ham o'ylang: yangi ko'nikmalar, qo'shimcha ish yoki maosh oshirish haqida suhbat."
+ },
+ {
+  "id": 29,
+  "tag": "budgeting",
+  "en": "A budget that is too strict gets abandoned. Leave room for fun money on purpose.",
+  "ru": "Слишком строгий бюджет бросают. Заранее оставьте в нём место для денег на удовольствия.",
+  "uz": "Haddan tashqari qattiq byudjetni tashlab yuborishadi. Unda ko'ngil xushligi uchun pulga ataylab joy qoldiring."
+ },
+ {
+  "id": 30,
+  "tag": "habits",
+  "en": "Attach tracking to an existing habit, like logging your expenses over evening tea.",
+  "ru": "Привяжите учёт расходов к привычному делу, например записывайте траты за вечерним чаем.",
+  "uz": "Hisob yuritishni mavjud odatingizga bog'lang, masalan kechki choy paytida xarajatlarni yozing."
+ },
+ {
+  "id": 31,
+  "tag": "spending",
+  "en": "Notice what you spend on when you are stressed or bored. Awareness is the first step.",
+  "ru": "Обращайте внимание, на что вы тратите, когда устали, скучаете или нервничаете. Осознанность — первый шаг.",
+  "uz": "Toliqqan, zerikkan yoki asabiy paytingizda nimaga pul sarflayotganingizga e'tibor bering. Anglash — birinchi qadam."
+ },
+ {
+  "id": 32,
+  "tag": "debt",
+  "en": "Before taking a loan, compare the total cost (interest and fees), not just the monthly payment.",
+  "ru": "Перед кредитом сравнивайте полную стоимость (проценты и комиссии), а не только ежемесячный платёж.",
+  "uz": "Kredit olishdan oldin faqat oylik to'lovni emas, umumiy xarajatni (foiz va komissiyalar) solishtiring."
+ },
+ {
+  "id": 33,
+  "tag": "saving",
+  "en": "Round up: if you spent 47,000, think of it as 50,000 and set the difference aside.",
+  "ru": "Округляйте вверх: потратили 47 000 — мысленно считайте 50 000 и откладывайте разницу.",
+  "uz": "Yuqoriga yaxlitlang: 47 000 sarflasangiz, 50 000 deb hisoblab, farqini chetga qo'ying."
+ },
+ {
+  "id": 34,
+  "tag": "spending",
+  "en": "Cooking at home a few more days a week is one of the quickest ways to cut spending without feeling it.",
+  "ru": "Готовить дома на пару дней в неделю чаще — один из самых быстрых способов сократить расходы почти незаметно.",
+  "uz": "Haftada bir necha kun ko'proq uyda pishirish — xarajatni deyarli sezdirmasdan kamaytirishning eng tez yo'llaridan biri."
+ },
+ {
+  "id": 35,
+  "tag": "budgeting",
+  "en": "At the end of the month, compare plan with reality. The gap shows which category needs a new limit.",
+  "ru": "В конце месяца сравнивайте план и факт. Разница покажет, для какой категории нужен новый лимит.",
+  "uz": "Oy oxirida reja va haqiqatni solishtiring. Farq qaysi toifaga yangi limit kerakligini ko'rsatadi."
+ },
+ {
+  "id": 36,
+  "tag": "saving",
+  "en": "Keep your goals visible. A named pot like “Phone” or “Trip” is easier to protect.",
+  "ru": "Держите цели на виду. Копилку с названием, например «Телефон» или «Поездка», легче защитить от трат.",
+  "uz": "Maqsadlaringizni ko'z oldida tuting. “Telefon” yoki “Sayohat” kabi nomli jamg'armani himoya qilish osonroq."
+ },
+ {
+  "id": 37,
+  "tag": "safety",
+  "en": "Be careful with offers promising guaranteed high returns. If it sounds too good to be true, it usually is.",
+  "ru": "Осторожнее с предложениями «гарантированной высокой доходности». Если звучит слишком хорошо, чтобы быть правдой, обычно так и есть.",
+  "uz": "“Kafolatlangan yuqori daromad” va'dalariga ehtiyot bo'ling. Haddan tashqari yaxshi eshitilsa, odatda shunday bo'ladi."
+ },
+ {
+  "id": 38,
+  "tag": "habits",
+  "en": "Pick one money habit to improve this month instead of changing everything at once.",
+  "ru": "Выберите на этот месяц одну финансовую привычку вместо того, чтобы менять всё сразу.",
+  "uz": "Hammasini birdan o'zgartirmasdan, shu oy uchun bitta moliyaviy odatni tanlang."
+ },
+ {
+  "id": 39,
+  "tag": "income",
+  "en": "When extra money arrives (a bonus, a gift), decide the split before it lands, for example half to savings.",
+  "ru": "Когда приходят дополнительные деньги (премия, подарок), заранее решите, как их разделить, например половину — в накопления.",
+  "uz": "Qo'shimcha pul kelganda (mukofot, sovg'a) uni qanday bo'lishni oldindan hal qiling, masalan yarmini jamg'armaga."
+ },
+ {
+  "id": 40,
+  "tag": "spending",
+  "en": "Compare cost per use: a pricier item you use every day can cost less than a cheap one you rarely use.",
+  "ru": "Сравнивайте стоимость одного использования: дорогая вещь, которой вы пользуетесь каждый день, может обойтись дешевле дешёвой, которая лежит без дела.",
+  "uz": "Bir marta foydalanish narxini solishtiring: har kuni ishlatiladigan qimmat narsa kamdan-kam ishlatiladigan arzon narsadan arzonga tushishi mumkin."
+ }
+]

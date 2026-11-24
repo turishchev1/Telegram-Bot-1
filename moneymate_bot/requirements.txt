@@ -1,0 +1,7 @@
+aiogram>=3.7,<4
+openpyxl>=3.1
+matplotlib>=3.7
+# Windows has no system time-zone database; harmless elsewhere
+tzdata
+# Only needed to regenerate the banner image with assets/make_banner.py
+Pillow>=10
